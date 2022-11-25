@@ -1,1 +1,1 @@
-# rnd--mix-n-match--css-paradignms
+# RND - CSS Paradigms, Architectures, Approaches n' Philosophies
